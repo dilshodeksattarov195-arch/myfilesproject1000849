@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvender",
+        "uuid": 2448516,
+        "checksum": "osgyv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
